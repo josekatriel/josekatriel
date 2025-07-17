@@ -48,4 +48,4 @@ Displaying my most frequently used programming languages:
 
 ---
 
-💻 Made by [Jose Katriel](https://github.com/josekatriel)
+Made by [Jose Katriel](https://github.com/josekatriel) with 💻
