@@ -1,11 +1,13 @@
 # 🚀 Jose Katriel
 
 ## About Me
+
 🎮 Indie Game Developer | Full Stack Developer
 
 I'm a passionate indie game developer and full-stack developer with a love for creating engaging experiences. Welcome to my GitHub profile!
 
 ## 🛠️ Tech Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-Game%20Engine-blue?style=flat-square&logo=unity" alt="Unity">
   <img src="https://img.shields.io/badge/C%23-Programming%20Language-blue?style=flat-square&logo=csharp" alt="C#">
@@ -18,6 +20,7 @@ I'm a passionate indie game developer and full-stack developer with a love for c
 </p>
 
 ## 🎮 Game Development
+
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-Game%20Engine-blue?style=flat-square&logo=unity" alt="Unity">
   <img src="https://img.shields.io/badge/C%23-Programming%20Language-blue?style=flat-square&logo=csharp" alt="C#">
@@ -25,21 +28,25 @@ I'm a passionate indie game developer and full-stack developer with a love for c
 </p>
 
 ## 🎮 Minecraft-Inspired JavaScript
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/josekatriel/josekatriel/main/assets/minecraft-javascript.png" alt="Minecraft JavaScript" width="400">
 </p>
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=josekatriel&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ## 🏆 Most Used Languages
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josekatriel&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ## 🤝 Connect with Me
+
 <p align="center">
   <a href="mailto:josekatriel@gmail.com">
     <img src="https://img.shields.io/badge/Email-josekatriel@gmail.com-blue?style=flat-square&logo=gmail" alt="Email">
@@ -53,79 +60,23 @@ I'm a passionate indie game developer and full-stack developer with a love for c
 </p>
 
 ## 🎯 Goals
+
 - 🔭 Currently working on: Indie game development and web applications
 - 🌱 Currently learning: Advanced game mechanics and web optimization
 - 👯 Looking to collaborate on: Game development projects and web applications
 
 ## 🎮 Game Development
-- 🎮 Published game: TinyChaos on Steam
+
+- 🎮 Published game: [TinyChaos](https://store.steampowered.com/app/2500680/Tiny_Chaos/) on Steam
 - 🎮 Game development with Unity and C#
 - 🎮 Experience with game mechanics and physics
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josekatriel&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-## 🏆 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josekatriel&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-## 🤝 Connect with Me
-- 📫 Email: josekatriel@gmail.com
-- 💼 LinkedIn: [jKtrl](https://www.linkedin.com/in/jktrl/)
-- 🎮 Portfolio: [My Portfolio](https://web-portfolio-omega-brown.vercel.app/)
-
-## 🎯 Goals
-- 🔭 Currently working on: Indie game development and web applications
-- 🌱 Currently learning: Advanced game mechanics and web optimization
-- 👯 Looking to collaborate on: Game development projects and web applications
-
 ## 🎮 Fun Facts
+
 - 🎮 Published game developer with TinyChaos on Steam
 - 🎮 Minecraft enthusiast - Building amazing things in the block world
 - 🎮 Passionate about creating engaging experiences
 - 🎮 Always exploring new game development techniques
-
----
-
-⭐️ From [Jose Katriel](https://github.com/josekatriel)
-
-## 🎮 Fun Facts
-- 🎮 Published game developer with TinyChaos on Steam
-- 🎮 Minecraft enthusiast
-- 🎮 Passionate about creating engaging experiences
-- 🎮 Always exploring new game development techniques
-
----
-
-⭐️ From [Jose Katriel](https://github.com/josekatriel)
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josekatriel&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-## 🏆 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josekatriel&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-## 🤝 Connect with Me
-- 📫 Email: josekatriel@gmail.com
-- 💼 LinkedIn: [jKtrl](https://www.linkedin.com/in/jktrl/)
-- 🎮 Portfolio: [My Portfolio](https://web-portfolio-omega-brown.vercel.app/)
-
-## 🎯 Goals
-- 🔭 Currently working on: [Your Current Project]
-- 🌱 Currently learning: [Your Current Learning Focus]
-- 👯 Looking to collaborate on: [Your Collaboration Interests]
-
-## 🎯 Fun Facts
-- 🎮 I'm a gaming enthusiast
-- 🎮 I love solving complex problems
-- 🎮 I'm always learning new technologies
 
 ---
 
