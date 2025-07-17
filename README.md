@@ -1,6 +1,7 @@
 # 🚀 Jose Katriel
 
 ## About Me
+
 🎮 Indie Game Developer | Full Stack Developer
 
 I'm a passionate developer with experience in both game development and web applications. I've published TinyChaos on Steam and continue to create engaging experiences through Unity and C#. Welcome to my GitHub profile!
@@ -8,14 +9,16 @@ I'm a passionate developer with experience in both game development and web appl
 ## 🛠️ Tech Stack
 
 ### Game Development
-<p align="center">
+
+<p>
   <img src="https://img.shields.io/badge/Unity-Game%20Engine-blue?style=flat-square&logo=unity" alt="Unity">
   <img src="https://img.shields.io/badge/C%23-Programming%20Language-blue?style=flat-square&logo=csharp" alt="C#">
   <img src="https://img.shields.io/badge/TinyChaos-Published%20Game-orange?style=flat-square" alt="TinyChaos">
 </p>
 
 ### Web Development
-<p align="center">
+
+<p>
   <img src="https://img.shields.io/badge/Next.js-Framework-black?style=flat-square&logo=next.js" alt="Next.js">
   <img src="https://img.shields.io/badge/Node.js-Framework-green?style=flat-square&logo=node.js" alt="Node.js">
   <img src="https://img.shields.io/badge/JavaScript-Language-yellow?style=flat-square&logo=javascript" alt="JavaScript">
@@ -38,11 +41,10 @@ Displaying my most frequently used programming languages:
 
 ## 🤝 Connect with Me
 
-Email: josekatriel@gmail.com
-
-[LinkedIn](https://www.linkedin.com/in/jktrl/)
-
-[Portfolio](https://web-portfolio-omega-brown.vercel.app/)
+[![Email](https://skillicons.dev/icons?i=mail)](mailto:josekatriel@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jktrl/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/josekatriel)
+[![Portfolio](https://skillicons.dev/icons?i=vercel)](https://web-portfolio-omega-brown.vercel.app/)
 
 ---
 
