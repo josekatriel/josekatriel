@@ -4,10 +4,10 @@
 
 🎮 Indie Game Developer | Full Stack Developer
 
-I'm a passionate developer with experience in both game development and web applications. I've published [TinyChaos](https://store.steampowered.com/app/2500680/Tiny_Chaos/) on Steam and continue to create engaging experiences through Unity and C#. Welcome to my GitHub profile!
+I'm a passionate developer with experience in both game development and web applications. I've published [TinyChaos](https://store.steampowered.com/app/2500680?utm_source=github&utm_campaign=profile&utm_medium=page) on Steam and continue to create engaging experiences through Unity and C#. Welcome to my GitHub profile!
 
-[![TinyChaos](https://img.shields.io/badge/TinyChaos-Play%20on%20Steam-orange?style=flat-square&logo=steam)](https://store.steampowered.com/app/2500680/Tiny_Chaos/)
-
+[![TinyChaos](https://img.shields.io/badge/TinyChaos-Play%20on%20Steam-orange?style=flat-square&logo=steam)](https://store.steampowered.com/app/2500680?utm_source=github&utm_campaign=profile&utm_medium=page)
+[![PolySnap](https://img.shields.io/badge/PolySnap-Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)](https://play.google.com/store/apps/details?id=com.freightpx.polysnap&utm_source=github&utm_medium=profile&utm_campaign=polysnap_badge)
 ## 🛠️ Tech Stack
 
 ### Game Development
